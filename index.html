@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+      <link rel="stylesheet" href="style.css">
+      <title>Układ okresowy pierwiastków</title>
+  </head>
+  <body>
+      <div class="container">
+        <h1>Układ okresowy pierwiastków</h1>
+        <div class="legend">
+          <form>
+            <label for="name">Nazwa pierwiastka:</label>
+            <input type="text" name="name" id="name" placeholder="Szukaj...">
+          </form>
+          <table>
+            <tbody>
+              <tr>
+                <td id="nm">Niemetale</td>
+                <td id="ng">Gazy szlachetne</td>
+                <td id="sm">Półmetale</td>
+                <td id="am">Metale alkaliczne</td>
+              </tr>
+              <tr>
+                <td id="aem">Metale ziem alkalicznych</td>
+                <td id="pbm">Metale bloku p</td>
+                <td id="tm">Metale przejściowe</td>
+                <td id="pm">Metale szlachetne</td>
+              </tr>
+              <tr>
+                <td id="g">Gazy</td>
+                <td id="l">Ciecze</td>
+                <td id="s">Ciała stałe</td>
+                <td id="un">Nieznany stan skupienia</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="table">
+          <div class="PGr">
+            <div>↓ Okres</div>
+            <div> ← Grupa → </div>
+          </div>
+          <div class="container_el"></div>
+        </div>
+      </div>
+      <script src="script.js" type="module"></script>
+  </body>
+</html>

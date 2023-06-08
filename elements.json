@@ -1,0 +1,829 @@
+{
+  "0": {
+    "name": "Wodór",
+    "atomic_mass": 1.008,
+    "number": 1,
+    "phase": "Gas",
+    "symbol": "H"
+  },
+  "1": {
+    "name": "Hel",
+    "atomic_mass": 4.0026022,
+    "number": 2,
+    "phase": "Gas",
+    "symbol": "He"
+  },
+  "2": {
+    "name": "Lit",
+    "atomic_mass": 6.94,
+    "number": 3,
+    "phase": "Solid",
+    "symbol": "Li"
+  },
+  "3": {
+    "name": "Beryl",
+    "atomic_mass": 9.01218315,
+    "number": 4,
+    "phase": "Solid",
+    "symbol": "Be"
+  },
+  "4": {
+    "name": "Bor",
+    "atomic_mass": 10.81,
+    "number": 5,
+    "phase": "Solid",
+    "symbol": "B"
+  },
+  "5": {
+    "name": "Węgiel",
+    "atomic_mass": 12.011,
+    "number": 6,
+    "phase": "Solid",
+    "symbol": "C"
+  },
+  "6": {
+    "name": "Azot",
+    "atomic_mass": 14.007,
+    "number": 7,
+    "phase": "Gas",
+    "symbol": "N"
+  },
+  "7": {
+    "name": "Tlen",
+    "atomic_mass": 15.999,
+    "number": 8,
+    "phase": "Gas",
+    "symbol": "O"
+  },
+  "8": {
+    "name": "Fluor",
+    "atomic_mass": 18.9984031636,
+    "number": 9,
+    "phase": "Gas",
+    "symbol": "F"
+  },
+  "9": {
+    "name": "Neon",
+    "atomic_mass": 20.17976,
+    "number": 10,
+    "phase": "Gas",
+    "symbol": "Ne"
+  },
+  "10": {
+    "name": "Sód",
+    "atomic_mass": 22.989769282,
+    "number": 11,
+    "phase": "Solid",
+    "symbol": "Na"
+  },
+  "11": {
+    "name": "Magnez",
+    "atomic_mass": 24.305,
+    "number": 12,
+    "phase": "Solid",
+    "symbol": "Mg"
+  },
+  "12": {
+    "name": "Glin",
+    "atomic_mass": 26.98153857,
+    "discovered_by": null,
+    "number": 13,
+    "phase": "Solid",
+    "symbol": "Al"
+  },
+  "13": {
+    "name": "Krzem",
+    "atomic_mass": 28.085,
+    "number": 14,
+    "phase": "Solid",
+    "symbol": "Si"
+  },
+  "14": {
+    "name": "Fosfor",
+    "atomic_mass": 30.9737619985,
+    "number": 15,
+    "phase": "Solid",
+    "symbol": "P"
+  },
+  "15": {
+    "name": "Siarka",
+    "atomic_mass": 32.06,
+    "number": 16,
+    "phase": "Solid",
+    "symbol": "S"
+  },
+  "16": {
+    "name": "Chlor",
+    "atomic_mass": 35.45,
+    "number": 17,
+    "phase": "Gas",
+    "symbol": "Cl"
+  },
+  "17": {
+    "name": "Argon",
+    "atomic_mass": 39.9481,
+    "number": 18,
+    "phase": "Gas",
+    "symbol": "Ar"
+  },
+  "18": {
+    "name": "Potas",
+    "atomic_mass": 39.09831,
+    "number": 19,
+    "phase": "Solid",
+    "symbol": "K"
+  },
+  "19": {
+    "name": "Wapń",
+    "atomic_mass": 40.0784,
+    "number": 20,
+    "phase": "Solid",
+    "symbol": "Ca"
+  },
+  "20": {
+    "name": "Skand",
+    "atomic_mass": 44.9559085,
+    "number": 21,
+    "phase": "Solid",
+    "symbol": "Sc"
+  },
+  "21": {
+    "name": "Tytan",
+    "atomic_mass": 47.8671,
+    "number": 22,
+    "phase": "Solid",
+    "symbol": "Ti"
+  },
+  "22": {
+    "name": "Wanad",
+    "atomic_mass": 50.94151,
+    "number": 23,
+    "phase": "Solid",
+    "symbol": "V"
+  },
+  "23": {
+    "name": "Chrom",
+    "atomic_mass": 51.99616,
+    "number": 24,
+    "phase": "Solid",
+    "symbol": "Cr"
+  },
+  "24": {
+    "name": "Mangan",
+    "atomic_mass": 54.9380443,
+    "number": 25,
+    "phase": "Solid",
+    "symbol": "Mn"
+  },
+  "25": {
+    "name": "Żelazo",
+    "atomic_mass": 55.8452,
+    "number": 26,
+    "phase": "Solid",
+    "symbol": "Fe"
+  },
+  "26": {
+    "name": "Kobalt",
+    "atomic_mass": 58.9331944,
+    "number": 27,
+    "phase": "Solid",
+    "symbol": "Co"
+  },
+  "27": {
+    "name": "Nikiel",
+    "atomic_mass": 58.69344,
+    "number": 28,
+    "phase": "Solid",
+    "symbol": "Ni"
+  },
+  "28": {
+    "name": "Miedź",
+    "atomic_mass": 63.5463,
+    "number": 29,
+    "phase": "Solid",
+    "symbol": "Cu"
+  },
+  "29": {
+    "name": "Cynk",
+    "atomic_mass": 65.382,
+    "number": 30,
+    "phase": "Solid",
+    "symbol": "Zn"
+  },
+  "30": {
+    "name": "Gal",
+    "atomic_mass": 69.7231,
+    "number": 31,
+    "phase": "Solid",
+    "symbol": "Ga"
+  },
+  "31": {
+    "name": "German",
+    "atomic_mass": 72.6308,
+    "number": 32,
+    "phase": "Solid",
+    "symbol": "Ge"
+  },
+  "32": {
+    "name": "Arsen",
+    "atomic_mass": 74.9215956,
+    "number": 33,
+    "phase": "Solid",
+    "symbol": "As"
+  },
+  "33": {
+    "name": "Selen",
+    "atomic_mass": 78.9718,
+    "number": 34,
+    "phase": "Solid",
+    "symbol": "Se"
+  },
+  "34": {
+    "name": "Brom",
+    "atomic_mass": 79.904,
+    "number": 35,
+    "phase": "Liquid",
+    "symbol": "Br"
+  },
+  "35": {
+    "name": "Krypton",
+    "atomic_mass": 83.7982,
+    "number": 36,
+    "phase": "Gas",
+    "symbol": "Kr"
+  },
+  "36": {
+    "name": "Rubid",
+    "atomic_mass": 85.46783,
+    "number": 37,
+    "phase": "Solid",
+    "symbol": "Rb"
+  },
+  "37": {
+    "name": "Stront",
+    "atomic_mass": 87.621,
+    "number": 38,
+    "phase": "Solid",
+    "symbol": "Sr"
+  },
+  "38": {
+    "name": "Itr",
+    "atomic_mass": 88.905842,
+    "number": 39,
+    "phase": "Solid",
+    "symbol": "Y"
+  },
+  "39": {
+    "name": "Cyrkon",
+    "atomic_mass": 91.2242,
+    "number": 40,
+    "phase": "Solid",
+    "symbol": "Zr"
+  },
+  "40": {
+    "name": "Niob",
+    "atomic_mass": 92.906372,
+    "number": 41,
+    "phase": "Solid",
+    "symbol": "Nb"
+  },
+  "41": {
+    "name": "Molibden",
+    "atomic_mass": 95.951,
+    "number": 42,
+    "phase": "Solid",
+    "symbol": "Mo"
+  },
+  "42": {
+    "name": "Technet",
+    "atomic_mass": 98,
+    "number": 43,
+    "phase": "Solid",
+    "symbol": "Tc"
+  },
+  "43": {
+    "name": "Ruten",
+    "atomic_mass": 101.072,
+    "number": 44,
+    "phase": "Solid",
+    "symbol": "Ru"
+  },
+  "44": {
+    "name": "Rod",
+    "atomic_mass": 102.905502,
+    "number": 45,
+    "phase": "Solid",
+    "symbol": "Rh"
+  },
+  "45": {
+    "name": "Pallad",
+    "atomic_mass": 106.421,
+    "number": 46,
+    "phase": "Solid",
+    "symbol": "Pd"
+  },
+  "46": {
+    "name": "Srebro",
+    "atomic_mass": 107.86822,
+    "number": 47,
+    "phase": "Solid",
+    "symbol": "Ag"
+  },
+  "47": {
+    "name": "Kadm",
+    "atomic_mass": 112.4144,
+    "number": 48,
+    "phase": "Solid",
+    "symbol": "Cd"
+  },
+  "48": {
+    "name": "Ind",
+    "atomic_mass": 114.8181,
+    "number": 49,
+    "phase": "Solid",
+    "symbol": "In"
+  },
+  "49": {
+    "name": "Cyna",
+    "atomic_mass": 118.7107,
+    "number": 50,
+    "phase": "Solid",
+    "symbol": "Sn"
+  },
+  "50": {
+    "name": "Antymon",
+    "atomic_mass": 121.7601,
+    "number": 51,
+    "phase": "Solid",
+    "symbol": "Sb"
+  },
+  "51": {
+    "name": "Tellur",
+    "atomic_mass": 127.603,
+    "number": 52,
+    "phase": "Solid",
+    "symbol": "Te"
+  },
+  "52": {
+    "name": "Jod",
+    "atomic_mass": 126.904473,
+    "number": 53,
+    "phase": "Solid",
+    "symbol": "I"
+  },
+  "53": {
+    "name": "Ksenon",
+    "atomic_mass": 131.2936,
+    "number": 54,
+    "phase": "Gas",
+    "symbol": "Xe"
+  },
+  "54": {
+    "name": "Cez",
+    "atomic_mass": 132.905451966,
+    "number": 55,
+    "phase": "Solid",
+    "symbol": "Cs"
+  },
+  "55": {
+    "name": "Bar",
+    "atomic_mass": 137.3277,
+    "number": 56,
+    "phase": "Solid",
+    "symbol": "Ba"
+  },
+  "56": {
+    "name": "Lantan",
+    "atomic_mass": 138.905477,
+    "number": 57,
+    "phase": "Solid",
+    "symbol": "La"
+  },
+  "57": {
+    "name": "Cer",
+    "atomic_mass": 140.1161,
+    "number": 58,
+    "phase": "Solid",
+    "symbol": "Ce"
+  },
+  "58": {
+    "name": "Prazeodym",
+    "atomic_mass": 140.907662,
+    "number": 59,
+    "phase": "Solid",
+    "symbol": "Pr"
+  },
+  "59": {
+    "name": "Neodym",
+    "atomic_mass": 144.2423,
+    "number": 60,
+    "phase": "Solid",
+    "symbol": "Nd"
+  },
+  "60": {
+    "name": "Promet",
+    "atomic_mass": 145,
+    "number": 61,
+    "phase": "Solid",
+    "symbol": "Pm"
+  },
+  "61": {
+    "name": "Samar",
+    "atomic_mass": 150.362,
+    "number": 62,
+    "phase": "Solid",
+    "symbol": "Sm"
+  },
+  "62": {
+    "name": "Europ",
+    "atomic_mass": 151.9641,
+    "number": 63,
+    "phase": "Solid",
+    "symbol": "Eu"
+  },
+  "63": {
+    "name": "Gadolin",
+    "atomic_mass": 157.253,
+    "number": 64,
+    "phase": "Solid",
+    "symbol": "Gd"
+  },
+  "64": {
+    "name": "Terb",
+    "atomic_mass": 158.925352,
+    "number": 65,
+    "phase": "Solid",
+    "symbol": "Tb"
+  },
+  "65": {
+    "name": "Dysproz",
+    "atomic_mass": 162.5001,
+    "number": 66,
+    "phase": "Solid",
+    "symbol": "Dy"
+  },
+  "66": {
+    "name": "Holm",
+    "atomic_mass": 164.930332,
+    "number": 67,
+    "phase": "Solid",
+    "symbol": "Ho"
+  },
+  "67": {
+    "name": "Erb",
+    "atomic_mass": 167.2593,
+    "number": 68,
+    "phase": "Solid",
+    "symbol": "Er"
+  },
+  "68": {
+    "name": "Tul",
+    "atomic_mass": 168.934222,
+    "number": 69,
+    "phase": "Solid",
+    "symbol": "Tm"
+  },
+  "69": {
+    "name": "Iterb",
+    "atomic_mass": 173.0451,
+    "number": 70,
+    "phase": "Solid",
+    "symbol": "Yb"
+  },
+  "70": {
+    "name": "Lutet",
+    "atomic_mass": 174.96681,
+    "number": 71,
+    "phase": "Solid",
+    "symbol": "Lu"
+  },
+  "71": {
+    "name": "Hafn",
+    "atomic_mass": 178.492,
+    "number": 72,
+    "phase": "Solid",
+    "symbol": "Hf"
+  },
+  "72": {
+    "name": "Tantal",
+    "atomic_mass": 180.947882,
+    "number": 73,
+    "phase": "Solid",
+    "symbol": "Ta"
+  },
+  "73": {
+    "name": "Wolfram",
+    "atomic_mass": 183.841,
+    "number": 74,
+    "phase": "Solid",
+    "symbol": "W"
+  },
+  "74": {
+    "name": "Ren",
+    "atomic_mass": 186.2071,
+    "number": 75,
+    "phase": "Solid",
+    "symbol": "Re"
+  },
+  "75": {
+    "name": "Osm",
+    "atomic_mass": 190.233,
+    "number": 76,
+    "phase": "Solid",
+    "symbol": "Os"
+  },
+  "76": {
+    "name": "Iryd",
+    "atomic_mass": 192.2173,
+    "number": 77,
+    "phase": "Solid",
+    "symbol": "Ir"
+  },
+  "77": {
+    "name": "Platyna",
+    "atomic_mass": 195.0849,
+    "number": 78,
+    "phase": "Solid",
+    "symbol": "Pt"
+  },
+  "78": {
+    "name": "Złoto",
+    "atomic_mass": 196.9665695,
+    "number": 79,
+    "phase": "Solid",
+    "symbol": "Au"
+  },
+  "79": {
+    "name": "Rtęć",
+    "atomic_mass": 200.5923,
+    "number": 80,
+    "phase": "Liquid",
+    "symbol": "Hg"
+  },
+  "80": {
+    "name": "Tal",
+    "atomic_mass": 204.38,
+    "number": 81,
+    "phase": "Solid",
+    "symbol": "Tl"
+  },
+  "81": {
+    "name": "Ołów",
+    "atomic_mass": 207.21,
+    "number": 82,
+    "phase": "Solid",
+    "symbol": "Pb"
+  },
+  "82": {
+    "name": "Bizmut",
+    "atomic_mass": 208.980401,
+    "number": 83,
+    "phase": "Solid",
+    "symbol": "Bi"
+  },
+  "83": {
+    "name": "Polon",
+    "atomic_mass": 209,
+    "number": 84,
+    "phase": "Solid",
+    "symbol": "Po"
+  },
+  "84": {
+    "name": "Astat",
+    "atomic_mass": 210,
+    "number": 85,
+    "phase": "Solid",
+    "symbol": "At"
+  },
+  "85": {
+    "name": "Radon",
+    "atomic_mass": 222,
+    "number": 86,
+    "phase": "Gas",
+    "symbol": "Rn"
+  },
+  "86": {
+    "name": "Frans",
+    "atomic_mass": 223,
+    "number": 87,
+    "phase": "Solid",
+    "symbol": "Fr"
+  },
+  "87": {
+    "name": "Rad",
+    "atomic_mass": 226,
+    "number": 88,
+    "phase": "Solid",
+    "symbol": "Ra"
+  },
+  "88": {
+    "name": "Aktyn",
+    "atomic_mass": 227,
+    "number": 89,
+    "phase": "Solid",
+    "symbol": "Ac"
+  },
+  "89": {
+    "name": "Tor",
+    "atomic_mass": 232.03774,
+    "number": 90,
+    "phase": "Solid",
+    "symbol": "Th"
+  },
+  "90": {
+    "name": "Protaktyn",
+    "atomic_mass": 231.035882,
+    "number": 91,
+    "phase": "Solid",
+    "symbol": "Pa"
+  },
+  "91": {
+    "name": "Uran",
+    "atomic_mass": 238.028913,
+    "number": 92,
+    "phase": "Solid",
+    "symbol": "U"
+  },
+  "92": {
+    "name": "Neptun",
+    "atomic_mass": 237,
+    "number": 93,
+    "phase": "Solid",
+    "symbol": "Np"
+  },
+  "93": {
+    "name": "Pluton",
+    "atomic_mass": 244,
+    "number": 94,
+    "phase": "Solid",
+    "symbol": "Pu"
+  },
+  "94": {
+    "name": "Ameryk",
+    "atomic_mass": 243,
+    "number": 95,
+    "phase": "Solid",
+    "symbol": "Am"
+  },
+  "95": {
+    "name": "Kiur",
+    "atomic_mass": 247,
+    "number": 96,
+    "phase": "Solid",
+    "symbol": "Cm"
+  },
+  "96": {
+    "name": "Berkel",
+    "atomic_mass": 247,
+    "number": 97,
+    "phase": "Solid",
+    "symbol": "Bk"
+  },
+  "97": {
+    "name": "Kaliforn",
+    "atomic_mass": 251,
+    "number": 98,
+    "phase": "Solid",
+    "symbol": "Cf"
+  },
+  "98": {
+    "name": "Einstein",
+    "atomic_mass": 252,
+    "number": 99,
+    "phase": "Solid",
+    "symbol": "Es"
+  },
+  "99": {
+    "name": "Ferm",
+    "atomic_mass": 257,
+    "number": 100,
+    "phase": "Solid",
+    "symbol": "Fm"
+  },
+  "100": {
+    "name": "Mendelew",
+    "atomic_mass": 258,
+    "number": 101,
+    "phase": "Solid",
+    "symbol": "Md"
+  },
+  "101": {
+    "name": "Nobel",
+    "atomic_mass": 259,
+    "number": 102,
+    "phase": "Solid",
+    "symbol": "No"
+  },
+  "102": {
+    "name": "Lorens",
+    "atomic_mass": 266,
+    "number": 103,
+    "phase": "Solid",
+    "symbol": "Lr"
+  },
+  "103": {
+    "name": "Rutherford",
+    "atomic_mass": 267,
+    "number": 104,
+    "phase": "unknown",
+    "symbol": "Rf"
+  },
+  "104": {
+    "name": "Dubn",
+    "atomic_mass": 268,
+    "number": 105,
+    "phase": "unknown",
+    "symbol": "Db"
+  },
+  "105": {
+    "name": "Seaborg",
+    "atomic_mass": 271,
+    "number": 106,
+    "phase": "unknown",
+    "symbol": "Sg"
+  },
+  "106": {
+    "name": "Bohr",
+    "atomic_mass": 272,
+    "number": 107,
+    "phase": "unknown",
+    "symbol": "Bh"
+  },
+  "107": {
+    "name": "Has",
+    "atomic_mass": 270,
+    "number": 108,
+    "phase": "unknown",
+    "symbol": "Hs"
+  },
+  "108": {
+    "name": "Meitner",
+    "atomic_mass": 276,
+    "number": 109,
+    "phase": "unknown",
+    "symbol": "Mt"
+  },
+  "109": {
+    "name": "Darmsztadt",
+    "atomic_mass": 281,
+    "number": 110,
+    "phase": "unknown",
+    "symbol": "Ds"
+  },
+  "110": {
+    "name": "Roentgen",
+    "atomic_mass": 282,
+    "number": 111,
+    "phase": "unknown",
+    "symbol": "Rg"
+  },
+  "111": {
+    "name": "Kopernik",
+    "atomic_mass": 285,
+    "number": 112,
+    "phase": "unknown",
+    "symbol": "Cn"
+  },
+  "112": {
+    "name": "Nihon",
+    "atomic_mass": 286,
+    "number": 113,
+    "phase": "unknown",
+    "symbol": "Nh"
+  },
+  "113": {
+    "name": "Flerow",
+    "atomic_mass": 289,
+    "number": 114,
+    "phase": "unknown",
+    "symbol": "Fl"
+  },
+  "114": {
+    "name": "Moskow",
+    "atomic_mass": 285,
+    "number": 115,
+    "phase": "unknown",
+    "symbol": "Mc"
+  },
+  "115": {
+    "name": "Liwermor",
+    "atomic_mass": 293,
+    "number": 116,
+    "phase": "unknown",
+    "symbol": "Lv"
+  },
+  "116": {
+    "name": "Tenes",
+    "atomic_mass": 294,
+    "number": 117,
+    "phase": "unknown",
+    "symbol": "Ts"
+  },
+  "117": {
+    "name": "Oganeson",
+    "atomic_mass": 294,
+    "number": 118,
+    "phase": "unknown",
+    "symbol": "Og"
+  }
+}
